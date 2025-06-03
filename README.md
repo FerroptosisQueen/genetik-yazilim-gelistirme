@@ -11,5 +11,5 @@ Genetik temelli bilimsel bir proje kapsamında çalışacak, yazılım geliştir
 
 💼 **Bu görev ücretlidir** ve proje bazlıdır.
 İlgilenenler GitHub profilimden Issue açarak ulaşabilir.
-
-
+**Keywords:** bioinformatics, genetics, developer wanted, Python, R, genomics, FastAPI, React, NGS
+🔍 Arama etiketleri: bioinformatics, genetics, Python, R, FastAPI, React, NGS, developer wanted
