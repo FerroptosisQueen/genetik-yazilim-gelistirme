@@ -1,2 +1,15 @@
-# genetik-yazilim-gelistirme
-Genetik altyapıya sahip yazılım geliştirici arıyorum – bilimsel ve özgün bir projede ücretli görev alacak yol arkadaşı aranıyor.
+# 🚀 Genetik Altyapıya Sahip Yazılım Geliştirici Aranıyor
+
+Genetik temelli bilimsel bir proje kapsamında çalışacak, yazılım geliştirme konusunda yetkin bir ekip arkadaşı arıyoruz.
+
+## Aranan Nitelikler:
+- Genetik / moleküler biyoloji temel bilgisine sahip
+- Python, R, Django, FastAPI, React, PostgreSQL gibi teknolojilere hâkim
+- Sıfırdan yazılım geliştirebilecek seviyede
+- Bilimsel verileri yazılımla entegre etmeye ilgili
+- Detaycı, çözüm odaklı ve yaratıcı
+
+💼 **Bu görev ücretlidir** ve proje bazlıdır.
+İlgilenenler GitHub profilimden Issue açarak ulaşabilir.
+
+
